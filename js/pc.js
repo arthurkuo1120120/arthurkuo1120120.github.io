@@ -12,7 +12,7 @@ define([], function(){
 				$tipBox.addClass("hide");
 			},
 			init: function(){
-				
+
 			}
 		}
 	})();
@@ -88,7 +88,7 @@ define([], function(){
 		});
 	}
 
-	
+
 
 	return {
 		init: function(){
