@@ -2489,7 +2489,7 @@
 		height: 100%;
 		left: 0;
 		padding: 8em 4em;
-		position: relative;
+		position: fixed;
 		text-align: right;
 		top: 0;
 		width: 20%;
@@ -2571,7 +2571,7 @@
 
 	#main {
 		margin-left: 20%;
-		max-width: 54em;
+		max-width: 30em;
 		padding: 8em 4em 4em 4em;
 		width: calc(100% - 20%);
 	}
