@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://arthurkuo1120120.github.io/"/>
-  <updated>2019-11-02T08:29:07.857Z</updated>
+  <updated>2019-10-26T12:02:39.756Z</updated>
   <id>https://arthurkuo1120120.github.io/</id>
   
   <author>
@@ -15,36 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>[筆記]Data muanipulation</title>
-    <link href="https://arthurkuo1120120.github.io/11/02/2019/Data-muanipulation/"/>
-    <id>https://arthurkuo1120120.github.io/11/02/2019/Data-muanipulation/</id>
-    <published>2019-11-02T08:26:00.000Z</published>
-    <updated>2019-11-02T08:29:07.857Z</updated>
-    
-    <content type="html"><![CDATA[<div id="doc" class="markdown-body container-fluid comment-enabled" data-hard-breaks="true"><h1 class="part" data-startline="1" data-endline="1" id="Data-muanipulation"><a class="anchor hidden-xs" href="#Data-muanipulation" title="Data-muanipulation" smoothhashscroll><span class="octicon octicon-link"></span></a>Data muanipulation</h1><h3 class="part" data-startline="2" data-endline="2" id="CPU結構："><a class="anchor hidden-xs" href="#CPU結構：" title="CPU結構：" smoothhashscroll><span class="octicon octicon-link"></span></a>CPU結構：</h3><p class="part" data-startline="3" data-endline="3">算術邏輯單元(Arithmetic/logic Unit)、控制單元、一般用途暫存器(General-Purpose Register)</p><h3 class="part" data-startline="5" data-endline="5" id="Machine-Instruction-Types-–Data-Transfer"><a class="anchor hidden-xs" href="#Machine-Instruction-Types-–Data-Transfer" title="Machine-Instruction-Types-–Data-Transfer" smoothhashscroll><span class="octicon octicon-link"></span></a>Machine Instruction Types –Data Transfer:</h3><ul class="part" data-startline="6" data-endline="10"><li class data-startline="6" data-endline="6"><strong>Copy data between CPU and main memory.</strong></li><li class data-startline="7" data-endline="7"><strong>Load</strong>: Fill a general-purpose register with the contents of a memory cell.</li><li class data-startline="8" data-endline="8"><strong>Store</strong>: Transfer the contents of a register to a memory cell.</li><li class data-startline="9" data-endline="10"><strong>I/O instructions</strong>: Communicating with devices outside the CPU-main memory context (printers, keyboards, monitors, disk drives, etc.).</li></ul><h3 class="part" data-startline="11" data-endline="11" id="Machine-Instruction-Types-–ArithmeticLogic"><a class="anchor hidden-xs" href="#Machine-Instruction-Types-–ArithmeticLogic" title="Machine-Instruction-Types-–ArithmeticLogic" smoothhashscroll><span class="octicon octicon-link"></span></a>Machine Instruction Types –Arithmetic/Logic</h3><ul class="part" data-startline="12" data-endline="16"><li class data-startline="12" data-endline="12">Use existing data values to compute a new data value.</li><li class data-startline="13" data-endline="13">Tell the control unit to request an activity within the arithmetic/logic unit.</li><li class data-startline="14" data-endline="14"><strong>AND, OR, and XOR</strong></li><li class data-startline="15" data-endline="16"><strong>ROTATE</strong> : Fill the holes left at the other end.</li></ul><h2 class="part" data-startline="17" data-endline="17" id="A-Machine-Instruction"><a class="anchor hidden-xs" href="#A-Machine-Instruction" title="A-Machine-Instruction" smoothhashscroll><span class="octicon octicon-link"></span></a>A Machine Instruction</h2><ul class="part" data-startline="18" data-endline="22"><li class data-startline="18" data-endline="19">Op-code: specifies which machine operation to execute<ul><li class data-startline="19" data-endline="19">One per instruction</li></ul></li><li class data-startline="20" data-endline="22">Operand: more detailed information about this operation<ul><li class data-startline="21" data-endline="22">Number of operands varies depending on op-code</li></ul></li></ul><h2 class="part" data-startline="23" data-endline="23" id="Stored-Program-Concept"><a class="anchor hidden-xs" href="#Stored-Program-Concept" title="Stored-Program-Concept" smoothhashscroll><span class="octicon octicon-link"></span></a>Stored Program Concept</h2><ul class="part" data-startline="24" data-endline="29"><li class data-startline="24" data-endline="26">A program is just a special type of data!<ul><li class data-startline="25" data-endline="25">A program can be encoded and stored in main memory.</li><li class data-startline="26" data-endline="26">The control unit extracts the program from memory, decode the instructions, and execute them.</li></ul></li><li class data-startline="27" data-endline="27">The machine alone don’t know what is data and what is program.</li><li class data-startline="28" data-endline="28">The computer just executes according to the program counter (A special kind of Register(暫存器)) .</li></ul></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div id=&quot;doc&quot; class=&quot;markdown-body container-fluid comment-enabled&quot; data-hard-breaks=&quot;true&quot;&gt;&lt;h1 class=&quot;part&quot; data-startline=&quot;1&quot; data-endline
-      
-    
-    </summary>
-    
-    
-      <category term="筆記" scheme="https://arthurkuo1120120.github.io/categories/%E7%AD%86%E8%A8%98/"/>
-    
-    
-      <category term="計算機" scheme="https://arthurkuo1120120.github.io/tags/%E8%A8%88%E7%AE%97%E6%A9%9F/"/>
-    
-      <category term="計算機概論" scheme="https://arthurkuo1120120.github.io/tags/%E8%A8%88%E7%AE%97%E6%A9%9F%E6%A6%82%E8%AB%96/"/>
-    
-      <category term="筆記" scheme="https://arthurkuo1120120.github.io/tags/%E7%AD%86%E8%A8%98/"/>
-    
-  </entry>
   
   <entry>
     <title>[10/24]贛話</title>
