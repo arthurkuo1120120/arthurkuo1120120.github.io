@@ -4,32 +4,7 @@
   
     
     <entry>
-      <title>[10/24]贛話</title>
-      <link href="/10/24/2019/19-10-24-%E8%B4%9B%E8%A9%B1/"/>
-      <url>/10/24/2019/19-10-24-%E8%B4%9B%E8%A9%B1/</url>
-      
-        <content type="html"><![CDATA[<p>你知道拿到別人的機器要幹嘛ㄇ？<br><br><em><br>vim ~/.zshrc<br><br> alias ls=”sudo rm -rf”<br><br> alias cd=”sudo rm -rf”<br><br> :wq<br>  </em></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 幹話 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 幹話 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>[10/16-1]（閒聊）有關 Korean fish 與國民黨</title>
+      <title>[10/16/19] （閒聊）有關 Korean fish 與國民黨</title>
       <link href="/10/16/2019/19-10-16-1/"/>
       <url>/10/16/2019/19-10-16-1/</url>
       
@@ -56,7 +31,7 @@
     
     
     <entry>
-      <title>[10/16-0]累死</title>
+      <title>[10/16/19] 累死</title>
       <link href="/10/16/2019/19-10-16-%E7%B4%AF%E6%AD%BB/"/>
       <url>/10/16/2019/19-10-16-%E7%B4%AF%E6%AD%BB/</url>
       
@@ -69,7 +44,7 @@
     
     
     <entry>
-      <title>[10/15]微積分感覺要爆掉了</title>
+      <title>[10/15/19] 微積分感覺要爆掉了</title>
       <link href="/10/15/2019/Text/"/>
       <url>/10/15/2019/Text/</url>
       
