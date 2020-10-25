@@ -1604,7 +1604,7 @@ input[type="button"],
   .button.special {
     background-color: #49bf9d;
     border-color: #49bf9d;
-    color: #ffffff !important; }
+    color: #D2E9FF !important; }
     input[type="submit"].special:hover,
     input[type="reset"].special:hover,
     input[type="button"].special:hover,
@@ -1687,9 +1687,9 @@ input[type="button"],
     flex-grow: 1;
     margin: 0 0 2em 0; }
   #header strong, #header b {
-    color: #ffffff; }
+    color: #D2E9FF; }
   #header h2, #header h3, #header h4, #header h5, #header h6 {
-    color: #ffffff; }
+    color: #D2E9FF; }
   #header h1 {
     color: rgba(255, 255, 255, 0.5);
     font-size: 1.35em;

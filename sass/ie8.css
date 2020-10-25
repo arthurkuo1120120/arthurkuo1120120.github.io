@@ -48,8 +48,8 @@ input[type="radio"] + label:before {
   background-size: cover;
   -ms-behavior: url("assets/js/ie/backgroundsize.min.htc"); }
   #header h1 {
-    color: #ffffff; }
+    color: #D2E9FF; }
 
 /* Footer */
 #footer .icons a {
-  color: #ffffff; }
+  color: #D2E9FF; }
