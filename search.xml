@@ -4,7 +4,20 @@
   
     
     <entry>
-      <title>[筆記]Data muanipulation</title>
+      <title>深色主題</title>
+      <link href="/10/25/2020/%E6%B7%B1%E8%89%B2%E4%B8%BB%E9%A1%8C/"/>
+      <url>/10/25/2020/%E6%B7%B1%E8%89%B2%E4%B8%BB%E9%A1%8C/</url>
+      
+        <content type="html"><![CDATA[<p>僅以此廢文宣告<br><br>我終於弄好深色主題了OwO<br></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>(筆記)Data muanipulation</title>
       <link href="/11/02/2019/Data-muanipulation/"/>
       <url>/11/02/2019/Data-muanipulation/</url>
       
@@ -33,7 +46,32 @@
     
     
     <entry>
-      <title>[10/16/19] 累死</title>
+      <title>贛話</title>
+      <link href="/10/24/2019/19-10-24-%E8%B4%9B%E8%A9%B1/"/>
+      <url>/10/24/2019/19-10-24-%E8%B4%9B%E8%A9%B1/</url>
+      
+        <content type="html"><![CDATA[<p>你知道拿到別人的機器要幹嘛ㄇ？<br><br><em><br>vim ~/.zshrc<br><br> alias ls=”rm -rf”<br><br> alias cd=”rm -rf”<br><br> :wq<br>  </em></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 幹話 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 幹話 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>窩好累QQ</title>
       <link href="/10/16/2019/19-10-16-%E7%B4%AF%E6%AD%BB/"/>
       <url>/10/16/2019/19-10-16-%E7%B4%AF%E6%AD%BB/</url>
       
